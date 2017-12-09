@@ -483,6 +483,9 @@ h6,
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
+#header1-1 .mbr-section-lead {
+  font-size: 18px;
+}
 #features1-2 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -781,6 +784,7 @@ h6,
 }
 #msg-box2-14 .mbr-section-title {
   color: #fff;
+  text-align: left;
 }
 #msg-box2-14 .mbr-section-subtitle {
   color: #a0a0a0;
