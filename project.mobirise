@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "microsoft.html",
     "name": "MyProfile",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": ""
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>"
         },
         {
           "_name": "header1",
@@ -378,18 +378,18 @@
               "active": true
             }
           },
-          "title1": "ACC CEMENT",
+          "title1": "ACC Cement",
           "subtitle1": "Cementing Relationships",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Channel loyalty program for its dealers. Created all the communication and creative right from website to promotional campaigns.",
           "title2": "Microsoft",
           "subtitle2": "Windows and Me",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Windows and me portal have been created and managed to make people aware about Windows 7 and its add on features.",
           "title3": "Nokia",
           "subtitle3": "Connecting People",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "To be added shortly...",
           "title4": "Trident Hotels",
           "subtitle4": "At Trident, you're sure.",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "To be added shortly...",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -687,7 +687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-c"
         },
         {
@@ -974,7 +974,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-k"
         },
         {
@@ -1324,7 +1324,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-p"
         },
         {
@@ -1782,7 +1782,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-z"
         },
         {
@@ -2427,7 +2427,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-1a"
         },
         {
@@ -2456,6 +2456,64 @@
         "order": 3
       },
       "components": [
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-501753-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/digital-tablet-1000x589.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Windows and Me is about community portal",
+          "text": "WindowsAndMe was created to share experience among users and know about its features in detail. Created campaigns on the website like parental control, protect data, Windows 7 features and Hotmail to reach out to its member .",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1j"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2543,8 +2601,251 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-1g"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/homepagedesign-19-10-09-2nd-a-1420x1296.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/homepagedesign-19-10-09-2nd-a-1420x1296-800x730.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/homepagedesign-05-10-09-ver2-1420x1155.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/homepagedesign-05-10-09-ver2-1420x1155-800x650.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/homepage-12apr2010-1424x987.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/homepage-12apr2010-1424x987-800x554.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/welcomeemailer1a-680x1504.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welcomeemailer1a-680x1504-680x1504.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/111-2000x3941.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/111-2000x3941-800x1576.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newsletter-2009march-final-820x1790.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newsletter-2009march-final-820x1790-800x1746.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/newsletter-5a2-680x1527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newsletter-5a2-680x1527-680x1527.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dell-mar2010-landingpage-950x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dell-mar2010-landingpage-950x600-800x505.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dell-mar2010-12mar2010c-800x1624.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dell-mar2010-12mar2010c-800x1624-800x1624.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/leaflet-1500x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/leaflet-1500x1150-800x613.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/antivirus-landing-page-1000x695-800x556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antivirus-landing-page-1000x695-800x556-800x556.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/win-with-windows7-landingpage-1549x1421.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/win-with-windows7-landingpage-1549x1421-800x733.jpg",
+                "alt": "Landing Page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/winners1-994x892.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/winners1-994x892-800x717.jpg",
+                "alt": "Winners Page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/winbig-mse-form-961x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/winbig-mse-form-961x1200-800x998.jpg",
+                "alt": "Contest Form",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hotmail-promo-campaign-2ndtime-landingpage-8mar2010-1440x904.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotmail-promo-campaign-2ndtime-landingpage-8mar2010-1440x904-800x502.jpg",
+                "alt": "Landing Page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Banners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-gif-banner.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-gif-banner-205x206.png",
+                "alt": "Digital Banner",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Merchandise",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/t-shirt4dd-700x554.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t-shirt4dd-700x554-700x554.jpg",
+                "alt": "Merchandise",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pc-booklet-tab-1440x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc-booklet-tab-1440x900-800x500.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Banners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/expandablebanner-for-msn01-300x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/expandablebanner-for-msn01-300x600-300x600.jpg",
+                "alt": "Expandable Banner",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Banners",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/expandablebanner-for-msn02b-300x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/expandablebanner-for-msn02b-300x600-300x600.jpg",
+                "alt": "Expandable Banner",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1s"
         },
         {
           "_name": "footer1",
@@ -2562,61 +2863,6 @@
           },
           "text": "Copyright (c) 2017.",
           "_anchor": "footer1-1i"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-1j"
         }
       ]
     },
@@ -2714,7 +2960,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-1k"
         },
         {
@@ -2885,7 +3131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-1o"
         },
         {

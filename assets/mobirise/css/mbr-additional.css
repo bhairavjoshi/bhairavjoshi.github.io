@@ -883,6 +883,10 @@ h6,
 #menu-1a .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box6-1j .mbr-section-title,
+#msg-box6-1j .lead p {
+  color: #fff;
+}
 #menu-1g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -949,10 +953,6 @@ h6,
 #menu-1g .close-icon::before,
 #menu-1g .close-icon::after {
   background-color: #ffffff;
-}
-#msg-box6-1j .mbr-section-title,
-#msg-box6-1j .lead p {
-  color: #fff;
 }
 #menu-1k .hide-buttons .nav-btn {
   display: none !important;
