@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "microsoft.html",
+    "currentPage": "trident-hotels.html",
     "name": "MyProfile",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": ""
@@ -380,7 +380,7 @@
           },
           "title1": "ACC Cement",
           "subtitle1": "Cementing Relationships",
-          "caption1": "Channel loyalty program for its dealers. Created all the communication and creative right from website to promotional campaigns.",
+          "caption1": "Channel loyalty program for its dealers across India. Created website and promotional campaigns for its various sub brands.",
           "title2": "Microsoft",
           "subtitle2": "Windows and Me",
           "caption2": "Windows and me portal have been created and managed to make people aware about Windows 7 and its add on features.",
@@ -1376,7 +1376,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brochure-2005-835x593.jpg",
+              "src": "@PROJECT_PATH@/assets/images/netcarrots-website-860x633.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1445,7 +1445,7 @@
               "size": 0
             }
           },
-          "title": "NetCarrots.com",
+          "title": "Loyalty Services",
           "text": "Website has all 3 major insights upfront, first what we do have presented in carousel prominently, industries we cater to has given second prominence and third most important what customer say about us.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.netcarrots.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIVE LINK</a>",
           "_tags": [
@@ -1673,6 +1673,61 @@
                 "image": "@PROJECT_PATH@/assets/images/award-emailer1-680x938.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/award-emailer1-680x938-680x938.jpg",
                 "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "10 Years",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/carrot-packaging-showing-973x1860.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carrot-packaging-showing-973x1860-800x1529.jpg",
+                "alt": "Packaging",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "10 Years",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/badges-1466x732.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/badges-1466x732-800x399.jpg",
+                "alt": "Badges",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "10 Years",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/carrot-packaging-1000x763.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carrot-packaging-1000x763-800x610.jpg",
+                "alt": "Gift Packaging",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Greetings",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/independence-day-170810-3-702x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/independence-day-170810-3-702x777-702x777.jpg",
+                "alt": "Indepedence Day Greeting",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Collaterals",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/brochure-2005-835x593.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brochure-2005-835x593-800x568.jpg",
+                "alt": "Brochure",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2300,12 +2355,12 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/35dbb5b7a4bbaa2077c4fa2fd4b049d6-1134x755.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2317,7 +2372,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "@PROJECT_PATH@/assets/images/layout1-900x677.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2331,8 +2389,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
+          "title": "ACC Lakshya",
+          "text": "A channel loyalty program for its dealer across India. Designed and managed ACC Lakshya and its subsidiaries websites i.e. ACC Concrete Club, and App design along with communication campaigns.",
           "_tags": [
             "Theme"
           ],
@@ -2429,6 +2487,238 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BHAIRAV DUTT JOSHI</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-x\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birla-cellulose.html\">Birla Cellulose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lapf-studio.html\">LAPF Studio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"embassy-india.html\">Embassy India</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"netcarrots.html\">NetCarrots Loyalty Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"acc-cement.html\">ACC Cement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft.html\">Microsoft</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nokia.html\">Nokia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trident-hotels.html\">Trident Hotels</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-a\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/BHAIRAV-171205.docx\" target=\"_blank\">DOWNLOAD RESUME</a></li>",
           "_anchor": "menu-1a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Logos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/acc-gaurav-logo-800x368.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acc-gaurav-logo-800x368-800x368.jpg",
+                "alt": "ACC Gaurav Logos",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/logo-atoot-bandhan-1200x801.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-atoot-bandhan-1200x801-800x534.jpg",
+                "alt": "ACC Atoot Bandhan Plus",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Logos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/logo-acc-sarathi-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-acc-sarathi-800x600-800x600.jpg",
+                "alt": "ACC Sarathi Logos",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Packaging",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/acc-utility-box-closed-676x660.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acc-utility-box-closed-676x660-676x660.jpg",
+                "alt": "Packaging",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Packaging",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/acc-utility-box-opened-909x726.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acc-utility-box-opened-909x726-800x638.jpg",
+                "alt": "Packaging",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Packaging",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dimensiondiagram-1403x1179.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dimensiondiagram-1403x1179-800x672.jpg",
+                "alt": "Packaging",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Websites",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/acc-website-2nd-option-1440x1093.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acc-website-2nd-option-1440x1093-800x607.jpg",
+                "alt": "ACC Concrete Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Websites",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/concreteclub-website-1-1440x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/concreteclub-website-1-1440x900-800x500.jpg",
+                "alt": "ACC Concrete Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Websites",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/swarnavarsha-1440x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swarnavarsha-1440x900-800x500.jpg",
+                "alt": "ACC Swarna Varsha",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Websites",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1152-680x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1152-680x1024-680x1024.jpg",
+                "alt": "Standee",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HR Conference",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/backdrop-20ft-x-10ft-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/backdrop-20ft-x-10ft-2000x1000-800x400.jpg",
+                "alt": "Standee",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HR Conference",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1219-1024x680.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1219-1024x680-800x531.jpg",
+                "alt": "Standee",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HR Conference",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1475-1200x797.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1475-1200x797-800x531.jpg",
+                "alt": "Backdrop",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HR Conference",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/backdrop02-1200x814.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/backdrop02-1200x814-800x542.jpg",
+                "alt": "Backdrop",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Others",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/christmascard-784x560.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christmascard-784x560-784x560.jpg",
+                "alt": "Christmas Greeting",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Others",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/engineers-day-mailer-copy-copy-792x648.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/engineers-day-mailer-copy-copy-792x648-792x648.jpg",
+                "alt": "Engineering Day EDM",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Others",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/engineers-day-cc-700x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/engineers-day-cc-700x700-700x700.jpg",
+                "alt": "Engineering Day EDM",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Others",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dm-1089x864.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dm-1089x864-799x634.jpg",
+                "alt": "DM",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Others",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/e-mast-banner-infographics-1056x770.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e-mast-banner-infographics-1056x770-800x583.jpg",
+                "alt": "eMast Benefits",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1t"
         },
         {
           "_name": "footer1",
@@ -2995,12 +3285,12 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6362658-17-z-1000x667.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -3012,7 +3302,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "@PROJECT_PATH@/assets/images/winning-mailer-01b-700x610.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3026,14 +3319,301 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "This is an intro with beautiful background video and image on the left side.",
+          "title": "Trident Privilege",
+          "text": "Loyalty program for its customer. Designed loyalty program for its privilege memebers. Create engagement campaigns like referrals...",
           "_tags": [
             "Theme"
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-1n"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-stay-away-50-stay-13apr2015-700x1050.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-stay-away-50-stay-13apr2015-700x1050-700x1050.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/50-stay-06may2015-700x1210.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/50-stay-06may2015-700x1210-700x1210.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/50-stay-29jun2015-700x1210.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/50-stay-29jun2015-700x1210-700x1210.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter/Points Statment",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8500-16999-1868x1352.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8500-16999-1868x1352-800x579.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/achievements-2014-new-1-final-700x1118.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/achievements-2014-new-1-final-700x1118-700x1118.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/award-mailer-3-702x1261.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/award-mailer-3-702x1261-702x1261.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/birthday-plat-edm-2-700x824.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/birthday-plat-edm-2-700x824-700x824.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/oberoi-dining-certificate-12may2015-702x1162.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oberoi-dining-certificate-12may2015-702x1162-702x1162.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/shopping-arcade-option-2-702x1284.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shopping-arcade-option-2-702x1284-702x1284.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/shopping-arcade-option2-702x1506.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shopping-arcade-option2-702x1506-702x1506.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotional Campaigns",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/travel-agent-mailer-option01-13mar15-800x1390.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/travel-agent-mailer-option01-13mar15-800x1390-800x1390.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/website-jun2014-1425x1049.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-jun2014-1425x1049-800x588.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/website-jun2014-dashboard-1425x879.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-jun2014-dashboard-1425x879-800x493.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/award-banner-07d-1200x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/award-banner-07d-1200x777-800x518.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rewardoptions-1194x663.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rewardoptions-1194x663-800x444.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/website-home-page-new-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-home-page-new-1920x1080-800x450.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/website-cityredemptionwebpage-1179x1394.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-cityredemptionwebpage-1179x1394-800x945.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Website",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/website-welcome-page-new.jpg-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-welcome-page-new.jpg-1920x1080-800x450.jpg",
+                "alt": "Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Referral Campaign",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/invitation-welcome-700x967.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/invitation-welcome-700x967-700x967.jpg",
+                "alt": "Referral",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Referral Campaign",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/congratulation-700x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/congratulation-700x900-700x900.jpg",
+                "alt": "Referral",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Referral Campaign",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/offline-700x1269.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/offline-700x1269-700x1269.jpg",
+                "alt": "Referral",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Referral Campaign",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/refferal-landing-page-1440x870.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/refferal-landing-page-1440x870-800x483.jpg",
+                "alt": "Referral Landing Page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Referral Campaign",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/trident-payback-edm-final-1-700x1008.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trident-payback-edm-final-1-700x1008-700x1008.jpg",
+                "alt": "Referral Landing Page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Newsletter/Points Statment",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/conde-nast-3-1152x2084.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/conde-nast-3-1152x2084-800x1447.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-1u"
         }
       ]
     },
