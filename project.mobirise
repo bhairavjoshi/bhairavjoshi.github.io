@@ -29,7 +29,8 @@
     "uniqCompNum": 72,
     "versionPublish": "4.5.2",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -157,7 +158,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "BHAIRAV DUTT JOSHI",
-          "text": "Has over 17+ years of experience in delivering loyalty and digital based campaigns for fortune 500 companies of India.<br>Extensive Experience in Web UI / UX designing across various domains and industries like  hospitality, construction, manufacturing, BFSI and more.<br>Having worked with some of the most respected global brands such as Birla Cellulose, Trident Hotels, Embassy India, ACC Cement, Microsoft, Nokia, Canon etc.<br>Specialized in Digital and Art both with strong knowledge of Designing skills and web technologies SEO, W3C, Cross Browser Compatibility, Complex Web UI and interactive UX solutions.<br>",
+          "text": "Has over 17+ years of experience in delivering loyalty and digital based campaigns for fortune 500 companies of India.<br>Extensive Experience in Design, Art Direction, Web UI / UX across various domains and industries like  hospitality, construction, manufacturing, BFSI and more.<br>Having worked with some of the most respected global brands such as Birla Cellulose, Trident Hotels, Embassy India, ACC Cement, Microsoft, Nokia, Canon etc.<br>Specialized in Digital and Art both with strong knowledge of Designing skills and web technologies SEO, W3C, Cross Browser Compatibility, Complex Web UI and interactive UX solutions.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features1-2\" data-toolbar=\"-mbrBtnMove\">CONTINUE TO THE WORK</a>  ",
           "_styles": {
             ".mbr-section-title": {
@@ -208,12 +209,16 @@
               "link": "birla-cellulose.html",
               "alt": "",
               "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title1": "Birla Cellulose",
           "subtitle1": "LAPFCONNECT.com",
           "caption1": "Designed a very unique community portal for the Viscose based manufactures and its buyers along with the promotional plans to make the site a big success.",
-          "button1": "<a data-app-btn=\"true\" href=\"birla-cellulose.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"birla-cellulose.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/lapf-studio-1-290x195.jpg",
@@ -223,12 +228,16 @@
               "link": "lapf-studio.html",
               "alt": "",
               "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title2": "LAPF Studio",
           "subtitle2": "360 degree virtual tour",
           "caption2": "LAPF Studio (virtual studio) created online to give access to the buyers online.",
-          "button2": "<a data-app-btn=\"true\" href=\"lapf-studio.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"lapf-studio.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/embassy-india-logo-290x195.jpg",
@@ -238,12 +247,16 @@
               "link": "embassy-india.html",
               "alt": "",
               "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title3": "Embassy India",
           "subtitle3": "Property Developments Firm",
           "caption3": "Embassy Group, are committed to creating a unique experience for the partners and customers that will enrich their lives. &nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"embassy-india.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"embassy-india.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/netcarrots-logo-290x195.jpg",
@@ -254,41 +267,56 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title4": "NetCarrots Loyalty Services",
           "subtitle4": "Loyalty Marketing Company",
           "caption4": "NetCarrots provides end to end loyalty marketing services that comprise of  program consulting &amp; management, creative services, loyalty solution deployment, rewards fulfillment and analytics.",
-          "button4": "<a data-app-btn=\"true\" href=\"netcarrots.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"netcarrots.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
             }
-          }
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015"
         },
         {
           "_params": {
@@ -324,6 +352,10 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "media2": {
@@ -336,6 +368,10 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "media3": {
@@ -348,6 +384,10 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "media4": {
@@ -360,6 +400,10 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "media5": {
@@ -368,6 +412,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "media6": {
@@ -376,6 +424,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "title1": "ACC Cement",
@@ -396,12 +448,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"acc-cement.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"microsoft.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"canon.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"trident-hotels.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"acc-cement.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"microsoft.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"canon.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"trident-hotels.html\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-danger\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn-wrap btn-xs-lg btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -426,7 +478,10 @@
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "color": "#7c706b"
             }
-          }
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015"
         },
         {
           "_params": {
